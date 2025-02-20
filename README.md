@@ -1,15 +1,16 @@
-# 📚 Chat with Multiple PDFs using Gemini 💁
+# 📚 Chat with PDFs using LangChain & ChatGPT 🤖
 
-Effortlessly chat with your PDF files using **Google Gemini AI**! This project allows users to upload multiple PDFs, process them into a searchable format, and ask AI-powered questions based on the document content. 🚀
+Effortlessly interact with your PDF files using LangChain and ChatGPT API! This app lets you upload PDFs, process them into searchable text, and ask detailed questions based on the document content.
 
 ---
 
-## 🔥 Features
+## 🚀 Features
 
-- 📄 **Upload Multiple PDFs**: Drag and drop multiple PDF files for processing.
-- 🧠 **AI-Powered Responses**: Uses **Gemini Pro** to generate answers from your document.
-- 🗂️ **FAISS Vector Storage**: Efficient text chunking & similarity search for quick responses.
-- 🔐 **Secure API Handling**: Uses `.env` file to store API keys securely.
+- 📄 **Upload Multiple PDFs**: Process multiple PDF files at once.
+- 🧠 **AI-Powered Chat**: Get answers from your PDFs using **ChatGPT API**.
+- 🔍 **Huggingface Model Support**: Enhance chatbot accuracy with Huggingface models.
+- 🗂️ **FAISS Indexing**: Efficient text chunking and embedding storage for rapid responses.
+- 🔐 **Secure Access**: Uses environment variables to protect API keys.
 - ⚡ **Streamlit UI**: Clean and simple web-based user interface.
 
 ---
